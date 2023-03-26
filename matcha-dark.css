@@ -317,6 +317,7 @@ body:not(#app) ::placeholder {
     overflow: hidden;
     white-space: nowrap;
     height: 1.5em;
+    font-size: 0.9em;
 }
 #tabs > span > img {
     margin: auto 0 auto 0.25em;
